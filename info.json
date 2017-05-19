@@ -1,0 +1,11 @@
+{
+  "name": "Burner-Inserter-Upgrade",
+  "title": "Burner Inserter Upgrade",
+  "version": "0.0.1",
+  "author": "Scott Sampson",
+  "contact": "",
+  "homepage": "",
+  "description": "Adds a simple recipe to the automation tech, that allows upgrading burner inserters to regular inserters.",
+  "factorio_version": "0.15",
+  "dependencies": [ "base >= 0.15" ]
+}
